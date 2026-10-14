@@ -1,0 +1,6 @@
+{
+  "name": "Alfa Studio",
+  "description": "نظام Alfa Studio المتكامل لإدارة وتصميم وتصدير المستندات الرسمية، عروض الأسعار، الفواتير، العقود، والمطبوعات الفنية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
